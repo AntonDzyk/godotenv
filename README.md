@@ -198,3 +198,5 @@ Use [annotated tags for all releases](https://github.com/joho/godotenv/issues/30
 ## Who?
 
 The original library [dotenv](https://github.com/bkeepers/dotenv) was written by [Brandon Keepers](http://opensoul.org/), and this port was done by [John Barton](https://johnbarton.co/) based off the tests/fixtures in the original library.
+
+;)
